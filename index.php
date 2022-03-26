@@ -9,5 +9,9 @@
 <body>
     <h1>Coba Remote</h1>
     <p>Hai</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
